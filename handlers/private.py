@@ -42,7 +42,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 Jᴏɪɴ Oᴜʀ Sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me//Esport_Bots")
+                        "💥 𝐂𝐥𝐢𝐜𝐤 ☑️  𝐑𝐞𝐩𝐨 🌍 💞", url=f"https://github.com/EsportMusicX/SmokerMusicX")
                 ]
             ]
         ),
